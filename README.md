@@ -16,4 +16,4 @@ Experienced Cloud & Infrastructure Leader with 18+ years in designing secure, sc
 ## 🌍 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sivakumar-thangamani-35432755/)  
 - 📫 Email: shiva.innovation100@gmail.com  
-- 📍 Currently in Singapore | Targeting UAE  and security Cloud Security Roles  
+- 📍 Currently in Singapore | Targeting UAE and Singapore  Cloud Security Roles  

@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Sivakumar Thangamani
 
-<!--
-**siva-cloudsec/siva-cloudsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cloud Security Architect | CISM Certified | Azure + AWS | DevSecOps | Based in Singapore | Open to UAE Opportunities**
 
-Here are some ideas to get you started:
+Experienced Cloud & Infrastructure Leader with 18+ years in designing secure, scalable multi-cloud and hybrid environments. Certified CISM and AWS Solutions Architect – Associate, with a proven track record driving cloud security, compliance, and automation across regulated industries. Skilled in leading cross-functional teams and aligning IT strategy with business goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technical Focus
+- **Cloud Platforms:** Microsoft Azure | AWS | Hybrid Cloud
+- **Security Domains:** IAM, Zero Trust, Microsoft Defender, CIS Benchmarks, DevSecOps
+- **Automation & Tools:** Terraform, Azure Policy, GitHub Actions, Sentinel, Security Center
+- **Certifications:** 🏅 CISM | AWS Solutions Architect – Associate | Executive PG in Cloud & DevOps
+
+---
+## 🌍 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sivakumar-thangamani-35432755/)  
+- 📫 Email: shiva.innovation100@gmail.com  
+- 📍 Currently in Singapore | Targeting UAE  and security Cloud Security Roles  

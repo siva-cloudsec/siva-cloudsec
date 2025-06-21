@@ -1,6 +1,6 @@
 Hi, I'm Sivakumar Thangamani
 
-🔐 **Cloud Security Architect | CISM Certified | Azure + AWS | DevSecOps | Based in Singapore | Open to UAE Opportunities**
+🔐 **Cloud Security Architect | CISM Certified | Azure + AWS | DevSecOps | Based in Singapore | Open to Singapore/UAE Opportunities**
 
 Experienced Cloud & Infrastructure Leader with 18+ years in designing secure, scalable multi-cloud and hybrid environments. Certified CISM and AWS Solutions Architect – Associate, with a proven track record driving cloud security, compliance, and automation across regulated industries. Skilled in leading cross-functional teams and aligning IT strategy with business goals.
 
